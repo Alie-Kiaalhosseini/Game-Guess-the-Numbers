@@ -1,0 +1,27 @@
+body{
+background-color: rgb(43, 183, 190);
+
+}
+.contianer{
+margin: auto;
+width: 20em;
+margin-top: 20em;
+color:aliceblue
+}
+.play{
+     text-align: center;
+     margin-top: 1em;
+     margin: 0.8em;
+     padding: 0.8em;
+     color: aliceblue;
+     background-color: rgb(173, 45, 199);
+     border-radius: 2px;
+border: 1.5px rgb(52, 101, 175) solid;
+ }
+ .input1 , .numb{
+    padding: 0.4em;
+    background-color: bisque;
+    color: blueviolet;
+border-radius: 2px;
+border: 1.5px blueviolet solid;
+ }
